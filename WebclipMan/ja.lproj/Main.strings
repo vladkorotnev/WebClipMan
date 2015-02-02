@@ -1,0 +1,38 @@
+
+/* Class = "IBUILabel"; text = "No Icon Effects"; ObjectID = "2iq-ed-QIh"; */
+"2iq-ed-QIh.text" = "アイコンエフェクトをできなくする";
+
+/* Class = "IBUILabel"; text = "Webclip"; ObjectID = "2pz-XF-uhl"; */
+"2pz-XF-uhl.text" = "Webclip";
+
+/* Class = "IBUILabel"; text = "Open Directly calls the URL directly from SpringBoard. Very useful for custom URL schemes such as call: and tweetbot://"; ObjectID = "38N-Cw-j5P"; */
+"38N-Cw-j5P.text" = "ダイレクトオープンはSpringBoardからURLを開くです。それをカスタムURLスケームと使っては便利です。";
+
+/* Class = "IBUITextField"; placeholder = "Web Address"; ObjectID = "52A-lC-TLs"; */
+"52A-lC-TLs.placeholder" = "アドレス";
+
+
+/* Class = "IBUITextField"; placeholder = "Title"; ObjectID = "Cef-Tm-3e6"; */
+"Cef-Tm-3e6.placeholder" = "アイコン名前";
+
+/* Class = "IBUILabel"; text = "Open directly"; ObjectID = "IV8-j0-Sca"; */
+"IV8-j0-Sca.text" = "ダイレクトオープン";
+
+/* Class = "IBUILabel"; text = "Full screen"; ObjectID = "UNQ-s4-c21"; */
+"UNQ-s4-c21.text" = "フルスクリーン";
+
+/* Class = "IBUILabel"; text = "Tap the icon to change it.\nYou can use custom URL schemes here."; ObjectID = "b94-g2-BDc"; */
+"b94-g2-BDc.text" = "アイコンをチェンジするためにそれをタップして下さい。\nカスタムURLスケームを使ってるは可能です。";
+
+/* Class = "IBUINavigationItem"; title = "Edit"; ObjectID = "cra-N8-TIN"; */
+"cra-N8-TIN.title" = "エディター";
+
+
+/* Class = "IBUILabel"; text = "Classic Mode"; ObjectID = "qGq-4J-Bdm"; */
+"qGq-4J-Bdm.text" = "クラシックモード";
+
+/* Class = "IBUINavigationItem"; title = "Webclips"; ObjectID = "tQt-TN-PWz"; */
+"tQt-TN-PWz.title" = "Webclip";
+
+"About WebclipMan" ="WebclipManについて";
+"ABOUT_TXT" = "Webclipman 1.0\n© vladkorotnev/AkRyuu, 2014\nhttp://vladkorotnev.me\n\nSpecial thanks to:\nNaoki Sakata\nArien Hikarin";

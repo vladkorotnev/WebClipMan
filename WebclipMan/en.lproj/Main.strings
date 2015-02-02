@@ -1,0 +1,42 @@
+
+/* Class = "IBUILabel"; text = "No Icon Effects"; ObjectID = "2iq-ed-QIh"; */
+"2iq-ed-QIh.text" = "No Icon Effects";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "2pz-XF-uhl"; */
+"2pz-XF-uhl.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Open Directly calls the URL directly from SpringBoard. Very useful for custom URL schemes such as call: and tweetbot://"; ObjectID = "38N-Cw-j5P"; */
+"38N-Cw-j5P.text" = "Open Directly calls the URL directly from SpringBoard. Very useful for custom URL schemes such as call: and tweetbot://";
+
+/* Class = "IBUITextField"; placeholder = "Web Address"; ObjectID = "52A-lC-TLs"; */
+"52A-lC-TLs.placeholder" = "Web Address";
+
+/* Class = "IBUIViewController"; title = "Detail"; ObjectID = "Ah7-4n-0Wa"; */
+"Ah7-4n-0Wa.title" = "Detail";
+
+/* Class = "IBUITextField"; placeholder = "Title"; ObjectID = "Cef-Tm-3e6"; */
+"Cef-Tm-3e6.placeholder" = "Title";
+
+/* Class = "IBUILabel"; text = "Open directly"; ObjectID = "IV8-j0-Sca"; */
+"IV8-j0-Sca.text" = "Open directly";
+
+/* Class = "IBUILabel"; text = "Full screen"; ObjectID = "UNQ-s4-c21"; */
+"UNQ-s4-c21.text" = "Full screen";
+
+/* Class = "IBUILabel"; text = "Tap the icon to change it.\nYou can use custom URL schemes here."; ObjectID = "b94-g2-BDc"; */
+"b94-g2-BDc.text" = "Tap the icon to change it.\nYou can use custom URL schemes here.";
+
+/* Class = "IBUINavigationItem"; title = "Edit"; ObjectID = "cra-N8-TIN"; */
+"cra-N8-TIN.title" = "Edit";
+
+/* Class = "IBUITableViewController"; title = "Master"; ObjectID = "pGg-6v-bdr"; */
+"pGg-6v-bdr.title" = "Master";
+
+/* Class = "IBUILabel"; text = "Classic Mode"; ObjectID = "qGq-4J-Bdm"; */
+"qGq-4J-Bdm.text" = "Classic Mode";
+
+/* Class = "IBUINavigationItem"; title = "Webclips"; ObjectID = "tQt-TN-PWz"; */
+"tQt-TN-PWz.title" = "Webclips";
+"About WebclipMan" = "About WebclipMan";
+
+"ABOUT_TXT" = "Webclipman 1.0\n© vladkorotnev/AkRyuu, 2014\nhttp://vladkorotnev.me\n\nSpecial thanks to:\nNaoki Sakata\nArien Hikarin";
